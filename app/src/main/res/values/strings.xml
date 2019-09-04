@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">טריוויה</string>
+    <string name="err_noname">דרוש שם משתמש!</string>
+    <string name="err_getname">לא ניתן לקבל שם משתמש!</string>
+    <string name="err_newname">לא ניתן לקבל שם משתמש!</string>
+    <string name="err_usename">לא ניתן לקבל שם משתמש</string>
+    <string name="err_dupname">שם משתמש תפוס!</string>
+    <string name="err_unusename">לא ניתן לצאת!</string>
+    <string name="err_getproblem">לא ניתן לטעון את השאלה!</string>
+    <string name="err_getscores">לא ניתן לטעון טבלת תוצאות!</string>
+    <string name="err_parseresponse">שרת לא מגיב!</string>
+    <string name="err_unknown">שגיאה לא ברורה</string>
+
+    <string name="alerttitle">טריוויה</string>
+    <string name="ok">אישור</string>
+    <string name="login_prog">כניסה</string>
+    <string name="gotohome">יציאה</string>
+    <string name="getting_problem">טוען שאלה</string>
+
+    <string name="btnlogin">כניסה </string>
+    <string name="entername">הקלד את שמך</string>
+
+    <string name="seconds">שניות</string>
+    <string name="next">הבא</string>
+    <string name="gohome">יציאה</string>
+
+    <string name="name">שם</string>
+    <string name="score">ציון</string>
+    <string name="yourscore"> ציונך הוא </string>
+    <string name="scoretable">טבלת תוצאות</string>
+</resources>
